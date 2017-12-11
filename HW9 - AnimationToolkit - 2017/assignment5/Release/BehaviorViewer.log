@@ -1,1 +1,18 @@
-﻿
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (A5-BehaviorViewer-soln.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Generating code
+d:\vcprojects\cis462-562 animation toolkit - master (local)\2016\vs2015\hw9 - animationtoolkit - solution\libsrc\animation\aikcontroller-soln.cpp(710): warning C4715: 'IKController::computeCCDIK': not all control paths return a value
+  Finished generating code
+libAssignment1-soln.lib(aVector.obj) : warning LNK4099: PDB 'libassignment1-soln.pdb' was not found with 'libAssignment1-soln.lib(aVector.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment1-soln.pdb'; linking object as if no debug info
+libAssignment1-soln.lib(aSplineVec3-soln.obj) : warning LNK4099: PDB 'libassignment1-soln.pdb' was not found with 'libAssignment1-soln.lib(aSplineVec3-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment1-soln.pdb'; linking object as if no debug info
+libAssignment2a-soln.lib(aRotation-soln.obj) : warning LNK4099: PDB 'libassignment2a-soln.pdb' was not found with 'libAssignment2a-soln.lib(aRotation-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2a-soln.pdb'; linking object as if no debug info
+libAssignment2a-soln.lib(aSplineQuat-soln.obj) : warning LNK4099: PDB 'libassignment2a-soln.pdb' was not found with 'libAssignment2a-soln.lib(aSplineQuat-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2a-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aJoint-soln.obj) : warning LNK4099: PDB 'libassignment2b-soln.pdb' was not found with 'libAssignment2b-soln.lib(aJoint-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2b-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aSkeleton-soln.obj) : warning LNK4099: PDB 'libassignment2b-soln.pdb' was not found with 'libAssignment2b-soln.lib(aSkeleton-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2b-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aBVHController-soln.obj) : warning LNK4099: PDB 'libassignment2b-soln.pdb' was not found with 'libAssignment2b-soln.lib(aBVHController-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2b-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aActor-soln.obj) : warning LNK4099: PDB 'libassignment2b-soln.pdb' was not found with 'libAssignment2b-soln.lib(aActor-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2b-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aTransform-soln.obj) : warning LNK4099: PDB 'libassignment2b-soln.pdb' was not found with 'libAssignment2b-soln.lib(aTransform-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2b-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aIKController-soln.obj) : warning LNK4099: PDB 'libassignment2c-soln.pdb' was not found with 'libAssignment2b-soln.lib(aIKController-soln.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2c-soln.pdb'; linking object as if no debug info
+libAssignment2b-soln.lib(aTarget.obj) : warning LNK4099: PDB 'libassignment2c-soln.pdb' was not found with 'libAssignment2b-soln.lib(aTarget.obj)' or at '\\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\libassignment2c-soln.pdb'; linking object as if no debug info
+  BehaviorViewer.vcxproj -> \\Mac\Home\Desktop\HW9 Work in Progress\assignment5\Release\A5-BehaviorViewer.exe
+  BehaviorViewer.vcxproj -> Release\A5-BehaviorViewer.pdb (Full PDB)
+          1 file(s) copied.

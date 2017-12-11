@@ -1,1 +1,26 @@
-﻿
+﻿  aBehaviorController.cpp
+  libassignment5.vcxproj -> \\Mac\Home\Desktop\HW9 Work in Progress\libsrc\animation\..\..\lib\libassignment5.lib
+  aActor.h
+  aBehaviorController.h
+  aBehaviors.h
+  aBVHController.h
+  aFireworks.h
+  aIKController.h
+  aJitter.h
+  aJoint.h
+  aMatrix.h
+  aMotion.h
+  aMotionController.h
+  aParticle.h
+  aParticleSystem.h
+  aRocket.h
+  aRotation.h
+  aSkeleton.h
+  aSpark.h
+  aSplineQuat.h
+  aSplineQuaternion.h
+  aSplineVec3.h
+  aTarget.h
+  aTransform.h
+  aVector.h
+         23 file(s) copied.

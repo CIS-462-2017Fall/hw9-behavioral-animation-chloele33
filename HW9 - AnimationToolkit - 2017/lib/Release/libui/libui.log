@@ -1,1 +1,20 @@
-﻿
+﻿  aBasicViewer.cpp
+  aCamera.cpp
+  aFBX.cpp
+  aImage.cpp
+  aSceneCache.cpp
+\\Mac\Home\Desktop\HW9 Work in Progress\3rdparty\FBX.SDK.2014.2\include\fbxsdk/core/math/fbxmath.h(188): warning C4244: 'return': conversion from 'double' to 'fbxsdk_2014_2::FbxFloat', possible loss of data
+  aSceneDrawer.cpp
+  aTimer.cpp
+  aWin32Utils.cpp
+aWin32Utils.cpp(186): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const std::string'
+  libui.vcxproj -> \\Mac\Home\Desktop\HW9 Work in Progress\libsrc\ui\..\..\lib\libui.lib
+  aBasicViewer.h
+  aCamera.h
+  aFBX.h
+  aImage.h
+  aSceneCache.h
+  aSceneDrawer.h
+  aTimer.h
+  aWin32Utils.h
+          8 file(s) copied.

@@ -1,1 +1,8 @@
-﻿
+﻿  aFireworks.cpp
+aFireworks.cpp(200): warning C4101: 'pRocket': unreferenced local variable
+  aJitter.cpp
+  aParticle.cpp
+  aParticleSystem.cpp
+  aRocket.cpp
+  aSpark.cpp
+  libassignment4.vcxproj -> \\Mac\Home\Desktop\HW9 Work in Progress\libsrc\animation\..\..\lib\libassignment4.lib

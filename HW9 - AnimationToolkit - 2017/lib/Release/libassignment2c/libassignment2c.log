@@ -1,1 +1,5 @@
-﻿
+﻿  aIKController.cpp
+aIKController.cpp(172): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+aIKController.cpp(306): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  aTarget.cpp
+  libassignment2c.vcxproj -> \\Mac\Home\Desktop\HW9 Work in Progress\libsrc\animation\..\..\lib\libassignment2c.lib

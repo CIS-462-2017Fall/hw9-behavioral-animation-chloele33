@@ -1,1 +1,6 @@
-﻿
+﻿  aActor.cpp
+  aBVHController.cpp
+  aJoint.cpp
+  aSkeleton.cpp
+  aTransform.cpp
+  libassignment2b.vcxproj -> \\Mac\Home\Desktop\HW9 Work in Progress\libsrc\animation\..\..\lib\libassignment2b.lib
